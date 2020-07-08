@@ -15,8 +15,6 @@ redirect_from:
 [我的简历](https://luckylabu.github.io/files/fangyexin.pdf)
 
 邮箱: 2018212151@student.cup.edu.cn
-[我的简历](https://luckylabu.github.io/files/fangyexin.pdf) 邮箱: 2018212151@student.cup.edu.cn
-
 
 学习经历
 ======
@@ -71,7 +69,9 @@ redirect_from:
 
 外语水平
 ------
+
 **英语**
+
 流利，托福: 99/120，GRE: 325/340，四级602/710，六级564/710
 
 全国大学生英语竞赛二等奖
@@ -86,6 +86,7 @@ redirect_from:
 
 
 **日语**
+
 熟悉，通过N3: 117/170
 
 模拟器使用与编程技能
