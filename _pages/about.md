@@ -17,15 +17,19 @@ redirect_from:
 邮箱: 2018212151@student.cup.edu.cn
 [我的简历](https://luckylabu.github.io/files/fangyexin.pdf) 邮箱: 2018212151@student.cup.edu.cn
 
+
 学习经历
 ======
 硕士 2018-2021 中国石油大学（北京）
+
 交换生 2018 加拿大卡尔加里大学
+
 学士 2014-2018 中国石油大学（北京）
 
 本科期间就读于石油工程创新班，绩点4.07，综合测评最高排名第三，免试攻读硕士，连续三年获一等奖学金
 
 研究生期间绩点3.54，排名9/120，一等学业奖学金，优秀研究生，优秀志愿者
+
 
 文章
 ======
@@ -35,6 +39,7 @@ redirect_from:
 2. Machine Learning Based Shale Gas Proration synchronized computing method. Unconventional Resources Technology Conference.（2020年非常规资源技术大会）（第三作者）
 3. 考虑煤粉堵塞影响的煤储层渗透率计算模型及其应用. 天然气工业. 录用待刊. （EI检索期刊）（第三作者）
 4. Novel Coalbed Methane Reservoir Permeability and Reserve Evaluation Method Based on Flowing Material Balance Equation at Dewatering Stage Considering Permeability Variation. Unconventional Resources Technology Conference. （2019年非常规资源技术大会）（第六作者）
+
 
 经历
 ======
@@ -52,6 +57,7 @@ redirect_from:
 2017-2018  浙江油田公司项目：沐爱试验区煤层气气藏描述与开发技术政策研究应用
 
 负责：煤层气井组数值模拟及井型井网优化设计
+
 
 实习经历
 ------
@@ -77,6 +83,7 @@ redirect_from:
 校级英语辩论赛一等奖
 
 中国辩论学院赛二等奖
+
 
 **日语**
 熟悉，通过N3: 117/170
