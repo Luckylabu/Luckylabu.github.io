@@ -9,44 +9,100 @@ redirect_from:
 ---
 
 我是中国石油大学（北京）2018级油气田开发工程的研究生。我目前的研究方向是基于机器学习的非常规气井排采优化级产能预测。曾经做过煤层气井型井网的优化设计。我的导师是[石军太副教授](http://www.cup.edu.cn/oil/jsdw/yqtkfgcx/135314.htm)，他的主要的研究方向是气藏工程。
+
 本科也就读于中国石油大学（北京），在加拿大卡尔加里大学做过半年的交换生。在道达尔公司做过实习。
+
+[我的简历](https://luckylabu.github.io/files/fangyexin.pdf)
+
+邮箱: 2018212151@student.cup.edu.cn
 [我的简历](https://luckylabu.github.io/files/fangyexin.pdf) 邮箱: 2018212151@student.cup.edu.cn
 
-A data-driven personal website
+学习经历
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+硕士 2018-2021 中国石油大学（北京）
+交换生 2018 加拿大卡尔加里大学
+学士 2014-2018 中国石油大学（北京）
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+本科期间就读于石油工程创新班，绩点4.07，综合测评最高排名第三，免试攻读硕士，连续三年获一等奖学金
 
-Getting started
+研究生期间绩点3.54，排名9/120，一等学业奖学金，优秀研究生，优秀志愿者
+
+文章
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+目前已发表国际会议英文文章3篇，国内EI文章1篇。其中导师为第一作者，本人第二作者一篇。
 
-Site-wide configuration
+1. Productivity Evaluation of Radial Multi-Branch Horizontal Well in Unconventional Gas Reservoirs Considering Permeability Variation: Model Establishment and Sensitivity Analyses. International Petroleum Technology Conference. （2020年国际石油技术大会）（导师为第一作者，本人为第二作者）
+2. Machine Learning Based Shale Gas Proration synchronized computing method. Unconventional Resources Technology Conference.（2020年非常规资源技术大会）（第三作者）
+3. 考虑煤粉堵塞影响的煤储层渗透率计算模型及其应用. 天然气工业. 录用待刊. （EI检索期刊）（第三作者）
+4. Novel Coalbed Methane Reservoir Permeability and Reserve Evaluation Method Based on Flowing Material Balance Equation at Dewatering Stage Considering Permeability Variation. Unconventional Resources Technology Conference. （2019年非常规资源技术大会）（第六作者）
+
+经历
+======
+
+科研项目
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+2019至今  浙江油田公司项目：蜀南地区煤层气生产规律及制度优化
 
-Create content & metadata
+负责：基于机器学习算法编写程序预测煤层气井产量；运行实例并进行结果分析，得到了很好的效果
+
+2018-2019  国家科技重大专项：煤层气高效增产及排采关键技术研究
+
+负责：推导煤层气井三段式压力下降模型；开展实例研究并分析结果
+
+2017-2018  浙江油田公司项目：沐爱试验区煤层气气藏描述与开发技术政策研究应用
+
+负责：煤层气井组数值模拟及井型井网优化设计
+
+实习经历
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+2017.10-12  道达尔企业管理（北京）有限公司
 
-**Markdown generator**
+科学发展部实习生，负责：调研撰写燃料电池新技术报告；协助筹办第八届道达尔中国科学论坛
+ 
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+技能
+======
 
-How to edit your site's GitHub repository
+外语水平
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+**英语**
+流利，托福: 99/120，GRE: 325/340，四级602/710，六级564/710
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+全国大学生英语竞赛二等奖
 
-For more info
+全国高校创新英语挑战赛一等奖
+
+参加校内一年期英语演讲与辩论特色班（15学分）
+
+校级英语辩论赛一等奖
+
+中国辩论学院赛二等奖
+
+**日语**
+熟悉，通过N3: 117/170
+
+模拟器使用与编程技能
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+1. 熟练使用油藏数值模拟器CMG，有油气藏数值模拟的项目经验；
+
+2. 熟练使用地质建模软件Petrel，有项目和石工设计大赛应用经验；
+
+3. 熟练使用编程语言C、Matlab和Python，计算机二级C语言优秀(90/100)
+
+4. 熟练使用Excel，Word，Powerpoint等办公软件，熟练使用OS X系统；
+
+获奖
+======
+第十届石油工程设计大赛油气藏工程组三等奖
+
+2019年Petrobowl石油工程英语知识竞赛一等奖
+
+第四届国际海洋钻井平台设计大赛一等奖
+
+第二届普通地质大赛二等奖
+
+2017年大学生创新创业训练计划项目结题评审一等奖
+
+2017美国大学生数学建模竞赛二等奖
+
+2016数学中国数学建模国际赛一等奖
