@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "教育经历"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+2018-2021 中国石油大学（北京） 油气田开发工程 硕士
+---
+免试硕士入学
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+专业课程：高等渗流力学（91/100），油藏数值模拟（95/100），高等油藏工程（96/100），复杂结构井开发理论与技术（94/100），高等气藏工程（87/100），提高采收率原理与方法（90/100）等
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+课程绩点3.54/5，综合测评专业排名9/120
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+2018.01-04 加拿大卡尔加里大学 石油与天然气工程 公派交换生 
+---
+
+专业课程：工程经济学，提高采收率
+
+2014-2018 中国石油大学（北京）石油工程 学士
+---
+
+专业课程：钻井工程（99/100），油藏工程（95/100），采油工程（94/100），完井工程（92/100），渗流力学（92/100），流体力学（90/100），油层物理（87/100），油田化学工程（100/100），气藏工程(97/100)，采气工程(98/100)，提高采收率基础（93/100），煤层气开发与开采（99/100），石油工程专业英语（96/100）
+
+就读于石油工程创新班，课程绩点4.07/5，综合测评专业排名3/38
