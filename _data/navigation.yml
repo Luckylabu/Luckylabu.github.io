@@ -1,13 +1,16 @@
 # main links links
 main:
-  - title: "文章"
+  - title: "教育"
     url: /publications/
 
-  - title: "经历"
+  - title: "文章"
     url: /talks/    
 
-  - title: "获奖"
+  - title: "经历"
     url: /teaching/    
     
-  - title: "荣誉"
+  - title: "技能"
     url: /portfolio/
+
+  - title: "获奖"
+    url: /cv/
