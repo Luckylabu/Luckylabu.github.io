@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "教育"
+  - title: "文章"
     url: /publications/
 
-  - title: "文章"
+  - title: "教育"
     url: /talks/    
 
   - title: "经历"
